@@ -4,25 +4,25 @@
 This project focuses on the **design, analysis, and optimization of a Planar Inverted-F Antenna (PIFA) for 5G frequencies**. It includes theoretical background, MATLAB-based simulations, and CST Studio Suite simulations to evaluate antenna performance at different frequency bands.
 
 ## Repository Structure
+```
 /
 |-- Documentation/
-|   |-- PIFA_5G_Design_Analysis_Optimization.pdf  # Project report
+| |-- PIFA_5G_Design_Analysis_Optimization.pdf   # Project report
 |
 |-- MATLAB_Scripts/
-|   |-- PCR.m                                     # MATLAB script for data processing
+| |-- PCR.m   # MATLAB script for data processing
 |
 |-- Simulations_CST/
-|   |-- *.cst                                     # CST Studio Suite simulation files
+| |-- *.cst   # CST Studio Suite simulation files
 |
 |-- Data/
-|   |-- *.txt                                     # Measurement and simulation results
+| |-- *.txt   # Measurement and simulation results
 |
 |-- Figures/
-|   |-- *.png                                     # Plots and results visualization
+| |-- *.png   # Plots and results visualization
 |
-|-- README.md                                     # Project documentation
-
-
+|-- README.md   # Project documentation
+```
 ## Project Details
 ### **1. Theoretical Background**
 - Overview of **patch antennas** and their evolution
